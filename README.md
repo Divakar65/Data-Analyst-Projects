@@ -15,6 +15,8 @@ This repository contains a Power BI report in a `.pbix` file format. The report 
 
 ## Technologies Used
 - Power BI Desktop
+- SQL
+- Excel
 
 ## Contact
 For more information, contact (divakarm360@gmail.com).
