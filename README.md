@@ -7,7 +7,7 @@ This repository contains a Power BI report in a `.pbix` file format. The report 
 - `report.pbix`: The Power BI report file.
 
 ## How to Use
-1. **Download the `.pbix` File**: Navigate to the (sales analysis.pbix) and download the `sales.pbix` file.
+1. **Download the `.pbix` File**: Navigate to the (https://github.com/Divakar65/Data-Analyst-Projects/blob/0e38ffd622ca8e9fdd8a1fb0fb79c6c951b6cae7/sales%20analysis.pbix) and download the `sales.pbix` file.
 2. **Open with Power BI Desktop**:
    - Install Power BI Desktop from [Power BI website](https://powerbi.microsoft.com/desktop/).
    - Open Power BI Desktop and go to **File** > **Open**.
